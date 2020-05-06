@@ -1,2 +1,1 @@
-# poc
-subtakeover poc
+this is a subdomain takeover poc
